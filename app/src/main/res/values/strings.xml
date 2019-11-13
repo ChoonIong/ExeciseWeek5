@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="price">Car Price :</string>
+    <string name="payment">Down Payment Amount :</string>
+    <string name="loan">Loan Period (YEAR) :</string>
+    <string name="rate">Interest Rate :</string>
+    <string name="value">Enter Value</string>
+    <string name="calculator">Calculate</string>
+    <string name="carloan">Car Loan :</string>
+    <string name="interest">Interest :</string>
+    <string name="repayment">Monthly Repayment :</string>
+    <string name="PCalculate">-</string>
+</resources>
